@@ -1,4 +1,4 @@
-# initSnow.js
+# Simple Snowfall Snow.js
 
 Simple JavaScript snowfall effect. No libraries required.
 
